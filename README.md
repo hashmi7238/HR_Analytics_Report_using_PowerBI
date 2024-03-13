@@ -1,7 +1,7 @@
 # HR_Analytics_Report_using_PowerBI
 OBJECTIVE:
 -----------
-Help and organization to improve employee performance and imrove employee retention(reduce attrition) by creating HR Analytics Dashboard.
+Help an organization to improve employee performance and imrove employee retention(reduce attrition) by creating HR Analytics Dashboard.
 
 Content:
 ---------
@@ -10,6 +10,7 @@ Content:
 2.Data Cleaning and Processing
 3.Power BI Report
    a.Creating KPIs in Power BI
+   b.Creating Chart in Power BI
 
 Import Data to Power BI:
 -------------------------
