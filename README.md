@@ -13,6 +13,7 @@ Content:
    B.Creating Chart in Power BI
    C.Table in Power BI
 4.Insight
+5.Final Conclusion
 
 Import Data to Power BI:
 -------------------------
@@ -54,8 +55,19 @@ Power BI Report:
   C.Table in Power BI:
   --------------------
   1.Table of "Attrition according to Deartment".
+  
 
-4. Insight:
+4.Insight:
 ------------
+1.Out of 1470 employee, 237 employee left company with Attrition Rate of 16%.
+2.Average age of employee work in company is 37 and average working period is 7 years that is good but average 
+  salary is very low that might be reason why employee left.
+3.Mostly employee who left belong to education background of Life Science, Medical, Marketing and Technical 
+  degree which is about 94%. 
+4.Mostly people who left company belong to age group  of 26-35.
+5.Most of employee left company because of low salary so we need to increase the salary of employee little bit.
+6.Most emplyee left from the demartment Laboratory, sales executive, Research scientist and sales representative. 7.Most of employee left job in 1st year of working. 
 
-
+5.Final Conclusion:
+-----------------
+Mostly young(26-35) age group employee left job and obvious reason is low salary i'e less then 6k so company should think about it.
