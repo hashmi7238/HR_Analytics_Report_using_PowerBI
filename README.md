@@ -9,8 +9,10 @@ Content:
 1.Import Data to Power BI
 2.Data Cleaning and Processing
 3.Power BI Report
-   a.Creating KPIs in Power BI
-   b.Creating Chart in Power BI
+   A.Creating KPIs in Power BI
+   B.Creating Chart in Power BI
+   C.Table in Power BI
+4.Insight
 
 Import Data to Power BI:
 -------------------------
@@ -30,9 +32,30 @@ Check each columns of data for null or duplicate value and remove it if it will 
   
 Power BI Report:
 -----------------  
-  a.Creating KPIs in Power BI:
+  A.Creating KPIs in Power BI:
   ----------------------------
-  
+  * Add KPI of "Count of Employee" by counting column EmpID
+  * Add KPI of "Attrition Count" by Counting AttritionCount
+  * Add KPI of "Attrition Rate" using Column AttritionRate
+  * Add KPI of "Average of Age" using column Age
+  * Add KPI of "Average of Salary" using column MonthlySalary
+  * Add KPI of "Average year of employ work" using column 
+    YearAtCompany
 
+  B.Creating Chart in Power BI:
+  ------------------------------
+  1.Attrition by Education
+  2.Attrition by Age
+  3.Attrition by Gender
+  4.Attriton by Salary
+  5.Attrition by JobRole
+  6.Attrition by Year at Company
+
+  C.Table in Power BI:
+  --------------------
+  1.Table of "Attrition according to Deartment".
+
+4. Insight:
+------------
 
 
